@@ -1,4 +1,9 @@
-{
+{"name": "cdg-ws-server",
+"version": "1.0.0",
+  "main": "index.js",
+"scripts": {
+  "start": "node index.js"
+},
   "dependencies": {
     "mongodb": "^6.5.0",
     "ws": "^8.16.0"
